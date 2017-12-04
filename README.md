@@ -1,3 +1,3 @@
 # hermanus-villa-for-rent
-Project on HTML, CSS and SASS
-Updated Project with SASS effects incorporated!
+HTML, CSS and SASS
+SASS effects now incorporated though still refining on styling (CSS) and Media Queries.
